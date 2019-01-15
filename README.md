@@ -58,7 +58,7 @@ Please follow the below steps to install the Mosquitto Broker
 6. Test the Mosquitto using secure connection
 	a. Subscribe to topic "test" using credentials
     
-    	> mosquitto_sub -t "test" -u "username" -P "password"`
+    	> mosquitto_sub -t "test" -u "username" -P "password"
 	
 	b. Publish a message to topic "test" using credentials
 	    
@@ -133,11 +133,11 @@ Below extensions are required for Mosquitto
 
 ## Screenshots ##
  
-Server Tereminal:
+Server Terminal:
 
 ![Mqtt-server](https://www.cmarix.com/git/php/Mosquitto-PHP-Example/Mqtt-server.png)
 
-Client Tereminal:
+Client Terminal:
 
 ![Mqtt-client](https://www.cmarix.com/git/php/Mosquitto-PHP-Example/Mqtt-client.png)
 
