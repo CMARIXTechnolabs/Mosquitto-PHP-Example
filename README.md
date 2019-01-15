@@ -139,12 +139,12 @@ Server Tereminal:
 
 Client Tereminal:
 
-![Mqtt-client](https://www.cmarix.com/git/php/Mosquitto-PHP-Example/Mqtt-server.png)
+![Mqtt-client](https://www.cmarix.com/git/php/Mosquitto-PHP-Example/Mqtt-client.png)
 
 
 ##  Run the server terminal in background ##
 
-To continue running the application, it required to opne the terminal. To overcome with this, use the [PM2 - advanced Node.js process manager](http://pm2.keymetrics.io/).
+To continue running the application, it required to open the terminal. To overcome with this, use the [PM2 - advanced Node.js process manager](http://pm2.keymetrics.io/).
 
 1. Install node and npm and then run the following command to install PM2
     	
